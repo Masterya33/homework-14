@@ -1,0 +1,12 @@
+.number{
+	padding: 10px;
+}
+.button{
+	text-align: center;
+}
+.container{
+	font-size: 72px;
+	width: 270px;
+	text-align: center;
+	border: 1px solid black;
+}
